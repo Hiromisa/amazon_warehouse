@@ -1,7 +1,8 @@
 # Project: amazon warehouse
 
 This is a project for Lede week 9.  
-Using an Amazon warrehouse list I obtained, analyzed its expansion and visualized with QGIS.
+Using an Amazon fullfillment center list I obtained, analyzed its expansion and visualized with QGIS.
+
 The link to my GitHub Pages is [here](https://hiromisa.github.io/amazon_warehouse/)
 
 ---
@@ -28,7 +29,8 @@ The link to my GitHub Pages is [here](https://hiromisa.github.io/amazon_warehous
 	For locations that did not have information on the opening year, I referenced local news. 
 	All information is current as of the end of July.
 
-	I plot all the location on QGIS to analyze their distribution. Many of the them are located at transportation hubs. 
+	I plot all the location on QGIS to analyze their distribution. 
+	Many of the them are located at transportation hubs. 
 	I didn't find any significant correation between the racial composition of the region and warehouses' location. 
 
 ---
